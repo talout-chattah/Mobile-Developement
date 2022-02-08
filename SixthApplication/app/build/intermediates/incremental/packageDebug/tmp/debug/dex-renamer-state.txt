@@ -1,4 +1,4 @@
-#Tue Feb 08 19:26:56 GMT+01:00 2022
+#Tue Feb 08 23:01:45 GMT+01:00 2022
 base.1=C\:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=C\:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

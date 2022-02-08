@@ -1899,6 +1899,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id info
 id invisible
 id inward
@@ -2082,7 +2083,10 @@ id test_radiobutton_android_button_tint
 id test_radiobutton_app_button_tint
 id text
 id text2
+id textAge
 id textEnd
+id textHobbies
+id textName
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -3002,6 +3006,8 @@ style Widget_Design_Snackbar
 style Widget_Design_TabLayout
 style Widget_Design_TextInputEditText
 style Widget_Design_TextInputLayout
+style Widget_Dogglers_TextAge
+style Widget_Dogglers_TextName
 style Widget_MaterialComponents_ActionBar_Primary
 style Widget_MaterialComponents_ActionBar_PrimarySurface
 style Widget_MaterialComponents_ActionBar_Solid
