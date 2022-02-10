@@ -42,4 +42,15 @@ fun main() {
    //filter()
    val filtredNames = peopleAges.filter {it.key.length < 4}
    println(filtredNames)
+   
+   // Lambda expressions
+    
+    val triple : (Int)-> Int = {a: Int -> a*3}
+    // val triple : (Int)-> Int = {it * 3}
+    println(triple(5))
+    
+    // Higher-order functions
+    val peopleNames = listOf("Fred", "Ann", "Barbara", "Joe")
+    println(peopleNames.sorted())
+    println(peopleNames.sortedWith{ srt1: String, srt2: String -> srt1.length - srt2.length})
 }
