@@ -1,0 +1,8 @@
+com/example/wordsapp/BuildConfig.java
+ com.example.wordsapp.BuildConfig
+com/example/wordsapp/databinding/ActivityDetailBinding.java
+ com.example.wordsapp.databinding.ActivityDetailBinding
+com/example/wordsapp/databinding/ActivityMainBinding.java
+ com.example.wordsapp.databinding.ActivityMainBinding
+com/example/wordsapp/databinding/ItemViewBinding.java
+ com.example.wordsapp.databinding.ItemViewBinding
