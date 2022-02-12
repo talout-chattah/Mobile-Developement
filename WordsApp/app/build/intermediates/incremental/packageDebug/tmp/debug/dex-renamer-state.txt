@@ -1,4 +1,4 @@
-#Fri Feb 11 20:06:15 GMT+01:00 2022
+#Sat Feb 12 19:02:48 GMT+01:00 2022
 base.0=C\:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

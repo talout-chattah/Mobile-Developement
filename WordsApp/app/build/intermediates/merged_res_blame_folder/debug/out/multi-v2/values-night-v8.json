@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-2\\files-2.1\\14ab5cd44b9e6ec96c48d0105c8573f1\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\60f36aa9ed66e2242cfb1c7e88bda09e\\transformed\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-2\\files-2.1\\3b415aacd154569fad9c9ce72ee25d2f\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\7450078d8b47dc2973e3177270e2ab2b\\transformed\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-2\\files-2.1\\3b415aacd154569fad9c9ce72ee25d2f\\appcompat-1.2.0\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\7450078d8b47dc2973e3177270e2ab2b\\transformed\\appcompat-1.2.0\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
