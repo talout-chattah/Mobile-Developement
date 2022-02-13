@@ -1542,8 +1542,10 @@ int drawable design_ic_visibility 0x7f080068
 int drawable design_ic_visibility_off 0x7f080069
 int drawable design_password_eye 0x7f08006a
 int drawable design_snackbar_background 0x7f08006b
+int drawable ic_grid_layout 0x7f080092
 int drawable ic_launcher_background 0x7f08006c
 int drawable ic_launcher_foreground 0x7f08006d
+int drawable ic_linear_layout 0x7f080093
 int drawable ic_mtrl_checked_circle 0x7f08006e
 int drawable ic_mtrl_chip_checked_black 0x7f08006f
 int drawable ic_mtrl_chip_checked_circle 0x7f080070
@@ -1644,6 +1646,7 @@ int id action_menu_presenter 0x7f09003c
 int id action_mode_bar 0x7f09003d
 int id action_mode_bar_stub 0x7f09003e
 int id action_mode_close_button 0x7f09003f
+int id action_switch_layout 0x7f090175
 int id action_text 0x7f090040
 int id actions 0x7f090041
 int id activity_chooser_view_content 0x7f090042
@@ -2084,6 +2087,7 @@ int layout text_view_with_line_height_from_layout 0x7f0c005f
 int layout text_view_with_line_height_from_style 0x7f0c0060
 int layout text_view_with_theme_line_height 0x7f0c0061
 int layout text_view_without_line_height 0x7f0c0062
+int menu layout_menu 0x7f130000
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
 int plurals mtrl_badge_content_description 0x7f0e0000
