@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-dessert-clicker-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\06758e689f0bced597b4e1b1801419a2\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\b397ea3ee0eab554471368752fd19fd5\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\b64c581a9daa138f08ffadfeafcf90fd\\transformed\\material-1.4.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\68a4590a2ce06df93e6356251c3c99cf\\transformed\\material-1.4.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\a41f65a1b182ec9e11a9bbe3d48996cb\\transformed\\appcompat-1.3.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\bbb8700b735e281600c794ad33b02613\\transformed\\appcompat-1.3.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

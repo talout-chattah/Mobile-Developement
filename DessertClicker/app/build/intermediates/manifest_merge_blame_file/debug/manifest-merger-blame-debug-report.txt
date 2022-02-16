@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.5.0] C:\Users\Med XPS\.gradle\caches\transforms-3\809ddce9e66ca99403b9a3e2d0b9af39\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.5.0] C:\Users\Med XPS\.gradle\caches\transforms-3\52e97e0801da13a0b120fdd354b8bbd7\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_dessert_clicker"
 15-->C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:8:9-50
@@ -47,15 +47,15 @@
 29        </activity>
 30
 31        <provider
-31-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\d021bec982e8e10b97ccac4f686ff33c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+31-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\170474b7d9454be6317c15b636653fd6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 32            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-32-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\d021bec982e8e10b97ccac4f686ff33c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+32-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\170474b7d9454be6317c15b636653fd6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
 33            android:authorities="com.example.android.dessertclicker.lifecycle-process"
-33-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\d021bec982e8e10b97ccac4f686ff33c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+33-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\170474b7d9454be6317c15b636653fd6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
 34            android:exported="false"
-34-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\d021bec982e8e10b97ccac4f686ff33c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+34-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\170474b7d9454be6317c15b636653fd6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
 35            android:multiprocess="true" />
-35-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\d021bec982e8e10b97ccac4f686ff33c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+35-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\170474b7d9454be6317c15b636653fd6\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
 36    </application>
 37
 38</manifest>
