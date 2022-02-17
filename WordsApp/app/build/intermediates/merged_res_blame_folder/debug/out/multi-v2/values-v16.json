@@ -4,7 +4,17 @@
             "outputFile": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\7450078d8b47dc2973e3177270e2ab2b\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\574a40089212d7bfb15fa3dca3aa5382\\transformed\\core-1.3.2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\6d5ea1e2eb136beb8c00be4efff3a2a9\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\65594b5e167993b964c4bc6bf4947855\\transformed\\core-1.3.2\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

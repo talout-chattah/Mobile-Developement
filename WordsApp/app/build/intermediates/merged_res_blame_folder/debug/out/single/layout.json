@@ -1,7 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
-        "source": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\src\\main\\res\\layout\\activity_detail.xml"
+        "merged": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_word_list.xml",
+        "source": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\src\\main\\res\\layout\\fragment_word_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_letter_list.xml",
+        "source": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\src\\main\\res\\layout\\fragment_letter_list.xml"
     },
     {
         "merged": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_view.xml",

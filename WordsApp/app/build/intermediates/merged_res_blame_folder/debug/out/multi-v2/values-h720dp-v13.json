@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\7450078d8b47dc2973e3177270e2ab2b\\transformed\\appcompat-1.2.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\6d5ea1e2eb136beb8c00be4efff3a2a9\\transformed\\appcompat-1.2.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

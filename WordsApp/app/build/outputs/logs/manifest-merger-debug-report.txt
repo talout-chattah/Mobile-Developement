@@ -1,68 +1,92 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
-INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
-INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
-INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
-MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\71467237eca9ab411532aae91e9f29d5\transformed\jetified-viewbinding-7.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\bc2336c778dfd192e8d5c16836c7df00\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\60f36aa9ed66e2242cfb1c7e88bda09e\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\9f782e11a9142c5fe929a6d4cfa549ec\transformed\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\7450078d8b47dc2973e3177270e2ab2b\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\31be82acf117e630b5a36b4d32ee4c96\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b5892b3ea5bcd55d4e3bec14389aa196\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6eafcec69b1cf7a00073162b5229574f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\0c01c991098aaa86742d493cc94b2c53\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\04aeb8d4c868945ed74876599a279ee9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e4e5bcadb0eab45bf36eb2f35f158cb5\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e2946728ed6d13d59df4259f526dfcc3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\eb8d7e1195acc9ea82ef73e98cf1ca19\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\cd5a6cd55704a9a4a7406be25b5a2a15\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\38689dd6a32979b63ce4bea0b29f0a45\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\963837f29dad529e8c850e0a4b8a2871\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\dbef72a639434a2f530bd1b31a80652a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ee63ffa02df6948a0045b53da576f8eb\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\65594b5e167993b964c4bc6bf4947855\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\22d65426b16e4ec5d84a4c9f7a73ca5e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\f9ed943b56072cfbe98a24be7a9a53bc\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\626e82f469020a4290343d649b5d77ca\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\82351526efcd8ac7ba9776eac26dc67c\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\29ac86fac5891cd9bafeaf7841838b0f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b49ab9d6949d3fc4ef9271e8c614a521\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4b907082d08e61f3b939e80167513e28\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\c19efee56160cacc35c86cf51c9699ab\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\2fd00802df93de8ed35c5110a1d3bbd8\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e87e771d70cd1f1132dc26aa07a3f126\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b2b510a4914e1d8992238e6e7530c071\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
-INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
-INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
+ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
+MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4edeec269cacd541584ac1d946b2d48c\transformed\jetified-viewbinding-7.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\99472ce8622239bd7a92b808931aea35\transformed\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Med XPS\.gradle\caches\transforms-3\3974d27ebbf9577a730bcafc3c693ee8\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\89ffc043764c7b33aaf1cca32428976d\transformed\navigation-ui-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\8c7903f9d31d56f828984f6ac16186d8\transformed\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\52f45e9f0769f1dc2a75ef11934ddb4c\transformed\navigation-common-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6529524ec88d372bb38c97546535deb5\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\d0f064279a674a438a21d49c08a6a596\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\5eff805064ec75b289b240ca8633030b\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\922014cf7e25cf1db1ff98fbb725a010\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ccef5c3cb2ec4dba324d7c7729669a9e\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\13c060468441fddc1b025d41584b45e6\transformed\navigation-ui-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\1673e788369ab7a7ae40f4a4d8d8b428\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\f4142b63633224367f1628cd7f01092f\transformed\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6d5ea1e2eb136beb8c00be4efff3a2a9\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\fa3e2e41441b1af9779e0a36a333e47c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e6f06838cd53d602401df04fda6f31be\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6c4c7dcf9663a15081e63e2a6cdb87e3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\19bba69b8aed44ee8b4b8d0aae893c8f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b73d02901fe26455f9120e0cbc752c95\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\dbc34716564d16d616f1fb31c7d41c33\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\68ddf2f55da663922bce244a76ffe485\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\1f3bdfa586a22226c62e4f95834922bd\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\872effd9cca6c4c622495bb932e568fa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\a1377e5138c7ecbc33bdf175c77b3329\transformed\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Med XPS\.gradle\caches\transforms-3\9363447ac0dc63a8e4585c15d5338483\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ebc3c2b229c4c86612ad44f18b6edaf4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\8ae74626f02f96ba29e5b5ac12befe3e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\9da751ee1683d4fe97e5b59c0185d22e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\5e8214d4d6dedf88ea63f7198ec5f42c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\c54fc51c4a1f4f52d9c3282fb7cf634b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\7446e54815c3903373ae392c43d4e4e0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Med XPS\.gradle\caches\transforms-3\cf28eb47b59e2430f6df6555f3c49e04\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\95f9706e3b9b906ddcfdd1dc8f204fbf\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Med XPS\.gradle\caches\transforms-3\03bf438c0eb39b4f8c97f4857b3e1c56\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\746437fae00f2fa1b971ec2f8832443d\transformed\navigation-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\60ac463f4770e85621de7872235ed100\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\d79bf0df0708bebb5ef09f8d2b9eadf1\transformed\navigation-common-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\574a40089212d7bfb15fa3dca3aa5382\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\90f71573e0c1596a77f9eaaf16425a8a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\66956492507332817a9f16425a592456\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\117323cab5f620481dd5d9b8db8e0f47\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ba1804db09a73ccaeedfeac497850bbf\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\15d965c13d49324b126612023eb9a1ee\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\23421f5fcaab0586b59f6282818aa2dd\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\a1072e3bc9196a3aeb1ebdd150c24a38\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\9160a2fd4e4e681c0d38cfb24ed91479\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\be44e3966b2925b0d0c9a70c0e666f7c\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\f7e2fbcca8a68ea319f936a751a635bb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e78575730c1cb64d3f70ddb3eaa564f9\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\807be75bc5b04fd23119512b79ddac58\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\572b149265ab874d1d7298201c9a8509\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4ce9cd48a21d65f4ddbe19b4e7395ffd\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\56480c734badfec27bad93f2037e1ac1\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
 	package
 		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:4:5-35
 		INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
+		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
 		INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-25:12
+		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:1-22:12
 		INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:3:11-69
 application
-ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:6:5-23:19
-MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\60f36aa9ed66e2242cfb1c7e88bda09e\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\60f36aa9ed66e2242cfb1c7e88bda09e\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\9f782e11a9142c5fe929a6d4cfa549ec\transformed\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\9f782e11a9142c5fe929a6d4cfa549ec\transformed\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\65594b5e167993b964c4bc6bf4947855\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\65594b5e167993b964c4bc6bf4947855\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\626e82f469020a4290343d649b5d77ca\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\626e82f469020a4290343d649b5d77ca\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\1673e788369ab7a7ae40f4a4d8d8b428\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\1673e788369ab7a7ae40f4a4d8d8b428\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\f4142b63633224367f1628cd7f01092f\transformed\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\f4142b63633224367f1628cd7f01092f\transformed\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\574a40089212d7bfb15fa3dca3aa5382\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\574a40089212d7bfb15fa3dca3aa5382\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\117323cab5f620481dd5d9b8db8e0f47\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\117323cab5f620481dd5d9b8db8e0f47\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\65594b5e167993b964c4bc6bf4947855\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\574a40089212d7bfb15fa3dca3aa5382\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
@@ -75,90 +99,132 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Me
 		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
 		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:12:9-43
-activity#com.example.wordsapp.DetailActivity
-ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:13:9-15:58
-	android:parentActivityName
-		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:15:13-55
-	android:name
-		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:14:13-43
 activity#com.example.wordsapp.MainActivity
-ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:16:9-22:20
+ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\71467237eca9ab411532aae91e9f29d5\transformed\jetified-viewbinding-7.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\71467237eca9ab411532aae91e9f29d5\transformed\jetified-viewbinding-7.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\bc2336c778dfd192e8d5c16836c7df00\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\bc2336c778dfd192e8d5c16836c7df00\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\60f36aa9ed66e2242cfb1c7e88bda09e\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\60f36aa9ed66e2242cfb1c7e88bda09e\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\9f782e11a9142c5fe929a6d4cfa549ec\transformed\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\9f782e11a9142c5fe929a6d4cfa549ec\transformed\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\7450078d8b47dc2973e3177270e2ab2b\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\7450078d8b47dc2973e3177270e2ab2b\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\31be82acf117e630b5a36b4d32ee4c96\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\31be82acf117e630b5a36b4d32ee4c96\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b5892b3ea5bcd55d4e3bec14389aa196\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b5892b3ea5bcd55d4e3bec14389aa196\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6eafcec69b1cf7a00073162b5229574f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6eafcec69b1cf7a00073162b5229574f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\0c01c991098aaa86742d493cc94b2c53\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\0c01c991098aaa86742d493cc94b2c53\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\04aeb8d4c868945ed74876599a279ee9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\04aeb8d4c868945ed74876599a279ee9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e4e5bcadb0eab45bf36eb2f35f158cb5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e4e5bcadb0eab45bf36eb2f35f158cb5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e2946728ed6d13d59df4259f526dfcc3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e2946728ed6d13d59df4259f526dfcc3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\eb8d7e1195acc9ea82ef73e98cf1ca19\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\eb8d7e1195acc9ea82ef73e98cf1ca19\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\cd5a6cd55704a9a4a7406be25b5a2a15\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\cd5a6cd55704a9a4a7406be25b5a2a15\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\38689dd6a32979b63ce4bea0b29f0a45\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\38689dd6a32979b63ce4bea0b29f0a45\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\963837f29dad529e8c850e0a4b8a2871\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\963837f29dad529e8c850e0a4b8a2871\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\dbef72a639434a2f530bd1b31a80652a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\dbef72a639434a2f530bd1b31a80652a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ee63ffa02df6948a0045b53da576f8eb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ee63ffa02df6948a0045b53da576f8eb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\65594b5e167993b964c4bc6bf4947855\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\65594b5e167993b964c4bc6bf4947855\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\22d65426b16e4ec5d84a4c9f7a73ca5e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\22d65426b16e4ec5d84a4c9f7a73ca5e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\f9ed943b56072cfbe98a24be7a9a53bc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\f9ed943b56072cfbe98a24be7a9a53bc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\626e82f469020a4290343d649b5d77ca\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\626e82f469020a4290343d649b5d77ca\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\82351526efcd8ac7ba9776eac26dc67c\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\82351526efcd8ac7ba9776eac26dc67c\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\29ac86fac5891cd9bafeaf7841838b0f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\29ac86fac5891cd9bafeaf7841838b0f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b49ab9d6949d3fc4ef9271e8c614a521\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b49ab9d6949d3fc4ef9271e8c614a521\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4b907082d08e61f3b939e80167513e28\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4b907082d08e61f3b939e80167513e28\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\c19efee56160cacc35c86cf51c9699ab\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\c19efee56160cacc35c86cf51c9699ab\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\2fd00802df93de8ed35c5110a1d3bbd8\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\2fd00802df93de8ed35c5110a1d3bbd8\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e87e771d70cd1f1132dc26aa07a3f126\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e87e771d70cd1f1132dc26aa07a3f126\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b2b510a4914e1d8992238e6e7530c071\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b2b510a4914e1d8992238e6e7530c071\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4edeec269cacd541584ac1d946b2d48c\transformed\jetified-viewbinding-7.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4edeec269cacd541584ac1d946b2d48c\transformed\jetified-viewbinding-7.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\99472ce8622239bd7a92b808931aea35\transformed\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\99472ce8622239bd7a92b808931aea35\transformed\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Med XPS\.gradle\caches\transforms-3\3974d27ebbf9577a730bcafc3c693ee8\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Med XPS\.gradle\caches\transforms-3\3974d27ebbf9577a730bcafc3c693ee8\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\89ffc043764c7b33aaf1cca32428976d\transformed\navigation-ui-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\89ffc043764c7b33aaf1cca32428976d\transformed\navigation-ui-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\8c7903f9d31d56f828984f6ac16186d8\transformed\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\8c7903f9d31d56f828984f6ac16186d8\transformed\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\52f45e9f0769f1dc2a75ef11934ddb4c\transformed\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\52f45e9f0769f1dc2a75ef11934ddb4c\transformed\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6529524ec88d372bb38c97546535deb5\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6529524ec88d372bb38c97546535deb5\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\d0f064279a674a438a21d49c08a6a596\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\d0f064279a674a438a21d49c08a6a596\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\5eff805064ec75b289b240ca8633030b\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\5eff805064ec75b289b240ca8633030b\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\922014cf7e25cf1db1ff98fbb725a010\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\922014cf7e25cf1db1ff98fbb725a010\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ccef5c3cb2ec4dba324d7c7729669a9e\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ccef5c3cb2ec4dba324d7c7729669a9e\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\13c060468441fddc1b025d41584b45e6\transformed\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\13c060468441fddc1b025d41584b45e6\transformed\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\1673e788369ab7a7ae40f4a4d8d8b428\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Med XPS\.gradle\caches\transforms-3\1673e788369ab7a7ae40f4a4d8d8b428\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\f4142b63633224367f1628cd7f01092f\transformed\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Med XPS\.gradle\caches\transforms-3\f4142b63633224367f1628cd7f01092f\transformed\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6d5ea1e2eb136beb8c00be4efff3a2a9\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6d5ea1e2eb136beb8c00be4efff3a2a9\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\fa3e2e41441b1af9779e0a36a333e47c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\fa3e2e41441b1af9779e0a36a333e47c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e6f06838cd53d602401df04fda6f31be\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e6f06838cd53d602401df04fda6f31be\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6c4c7dcf9663a15081e63e2a6cdb87e3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\6c4c7dcf9663a15081e63e2a6cdb87e3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\19bba69b8aed44ee8b4b8d0aae893c8f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\19bba69b8aed44ee8b4b8d0aae893c8f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b73d02901fe26455f9120e0cbc752c95\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\b73d02901fe26455f9120e0cbc752c95\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\dbc34716564d16d616f1fb31c7d41c33\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\dbc34716564d16d616f1fb31c7d41c33\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\68ddf2f55da663922bce244a76ffe485\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\68ddf2f55da663922bce244a76ffe485\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\1f3bdfa586a22226c62e4f95834922bd\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\1f3bdfa586a22226c62e4f95834922bd\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\872effd9cca6c4c622495bb932e568fa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\872effd9cca6c4c622495bb932e568fa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\a1377e5138c7ecbc33bdf175c77b3329\transformed\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\a1377e5138c7ecbc33bdf175c77b3329\transformed\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Med XPS\.gradle\caches\transforms-3\9363447ac0dc63a8e4585c15d5338483\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Med XPS\.gradle\caches\transforms-3\9363447ac0dc63a8e4585c15d5338483\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ebc3c2b229c4c86612ad44f18b6edaf4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ebc3c2b229c4c86612ad44f18b6edaf4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\8ae74626f02f96ba29e5b5ac12befe3e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\8ae74626f02f96ba29e5b5ac12befe3e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\9da751ee1683d4fe97e5b59c0185d22e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\9da751ee1683d4fe97e5b59c0185d22e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\5e8214d4d6dedf88ea63f7198ec5f42c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\5e8214d4d6dedf88ea63f7198ec5f42c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\c54fc51c4a1f4f52d9c3282fb7cf634b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\c54fc51c4a1f4f52d9c3282fb7cf634b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\7446e54815c3903373ae392c43d4e4e0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\7446e54815c3903373ae392c43d4e4e0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Med XPS\.gradle\caches\transforms-3\cf28eb47b59e2430f6df6555f3c49e04\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Med XPS\.gradle\caches\transforms-3\cf28eb47b59e2430f6df6555f3c49e04\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\95f9706e3b9b906ddcfdd1dc8f204fbf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\95f9706e3b9b906ddcfdd1dc8f204fbf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Med XPS\.gradle\caches\transforms-3\03bf438c0eb39b4f8c97f4857b3e1c56\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Med XPS\.gradle\caches\transforms-3\03bf438c0eb39b4f8c97f4857b3e1c56\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\746437fae00f2fa1b971ec2f8832443d\transformed\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\746437fae00f2fa1b971ec2f8832443d\transformed\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\60ac463f4770e85621de7872235ed100\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\60ac463f4770e85621de7872235ed100\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\d79bf0df0708bebb5ef09f8d2b9eadf1\transformed\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Med XPS\.gradle\caches\transforms-3\d79bf0df0708bebb5ef09f8d2b9eadf1\transformed\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\574a40089212d7bfb15fa3dca3aa5382\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Med XPS\.gradle\caches\transforms-3\574a40089212d7bfb15fa3dca3aa5382\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\90f71573e0c1596a77f9eaaf16425a8a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\90f71573e0c1596a77f9eaaf16425a8a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\66956492507332817a9f16425a592456\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\66956492507332817a9f16425a592456\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\117323cab5f620481dd5d9b8db8e0f47\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\117323cab5f620481dd5d9b8db8e0f47\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ba1804db09a73ccaeedfeac497850bbf\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\ba1804db09a73ccaeedfeac497850bbf\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\15d965c13d49324b126612023eb9a1ee\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\15d965c13d49324b126612023eb9a1ee\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\23421f5fcaab0586b59f6282818aa2dd\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\23421f5fcaab0586b59f6282818aa2dd\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\a1072e3bc9196a3aeb1ebdd150c24a38\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\a1072e3bc9196a3aeb1ebdd150c24a38\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\9160a2fd4e4e681c0d38cfb24ed91479\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\9160a2fd4e4e681c0d38cfb24ed91479\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\be44e3966b2925b0d0c9a70c0e666f7c\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\be44e3966b2925b0d0c9a70c0e666f7c\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\f7e2fbcca8a68ea319f936a751a635bb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\f7e2fbcca8a68ea319f936a751a635bb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e78575730c1cb64d3f70ddb3eaa564f9\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\e78575730c1cb64d3f70ddb3eaa564f9\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\807be75bc5b04fd23119512b79ddac58\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\807be75bc5b04fd23119512b79ddac58\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\572b149265ab874d1d7298201c9a8509\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Med XPS\.gradle\caches\transforms-3\572b149265ab874d1d7298201c9a8509\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4ce9cd48a21d65f4ddbe19b4e7395ffd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Med XPS\.gradle\caches\transforms-3\4ce9cd48a21d65f4ddbe19b4e7395ffd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\56480c734badfec27bad93f2037e1ac1\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Med XPS\.gradle\caches\transforms-3\56480c734badfec27bad93f2037e1ac1\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Med XPS\AndroidStudioProjects\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
