@@ -68,7 +68,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         recyclerView = binding.recyclerView
-        // Sets the LinearLayoutManager of the recyclerview
+
         chooseLayout()
     }
 
