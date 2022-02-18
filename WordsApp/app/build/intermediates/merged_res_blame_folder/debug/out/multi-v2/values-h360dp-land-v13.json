@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\1673e788369ab7a7ae40f4a4d8d8b428\\transformed\\material-1.2.1\\res\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\f96fe978dd949b18dfea107b01964855\\transformed\\material-1.2.1\\res\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

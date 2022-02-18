@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Med XPS\\AndroidStudioProjects\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\6d5ea1e2eb136beb8c00be4efff3a2a9\\transformed\\appcompat-1.2.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\2d2911dab30228132880aabc976d7af0\\transformed\\appcompat-1.2.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,106,109,152,155,158,160,162,164,167,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,220,222,223,224,234,235,236,248",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,26 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\1f3bdfa586a22226c62e4f95834922bd\\transformed\\media-1.0.0\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
-                    },
-                    "to": {
-                        "startLines": "327,330,334,338",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "24569,24737,25026,25322",
-                        "endLines": "329,332,336,340",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "24732,24895,25189,25484"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\574a40089212d7bfb15fa3dca3aa5382\\transformed\\core-1.3.2\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\7d5d4ee6536253003e1aae4829c0e014\\transformed\\core-1.3.2\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -61,7 +42,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\1673e788369ab7a7ae40f4a4d8d8b428\\transformed\\material-1.2.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\bb0be93e0ef9ec6734e1ed25a70fa836\\transformed\\media-1.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "327,330,334,338",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "24569,24737,25026,25322",
+                        "endLines": "329,332,336,340",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "24732,24895,25189,25484"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Med XPS\\.gradle\\caches\\transforms-3\\f96fe978dd949b18dfea107b01964855\\transformed\\material-1.2.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,19,22,25,28,31,34,37,38,41,46,57,63,69,75,81,87,88,89,93,96,99,102,105,109,113",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
