@@ -3,7 +3,6 @@ package com.example.android.unscramble.ui.game
 import android.text.Spannable
 import android.text.SpannableString
 import android.text.style.TtsSpan
-import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Transformations
@@ -41,15 +40,8 @@ class GameViewModel : ViewModel() {
     private lateinit var currentWord: String
 
     init {
-        Log.d("GameFragment", "GameViewModel Created!")
         getNextWord()
     }
-
-    override fun onCleared() {
-        super.onCleared()
-        Log.d("GameFragment", "GameViewModel destroyed!")
-    }
-
 
     // Update the current word and the current scrambled word with nest word
     private fun getNextWord(){
