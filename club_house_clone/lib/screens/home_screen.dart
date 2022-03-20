@@ -12,6 +12,7 @@ class HomeScreen extends StatelessWidget {
           icon: Icon(
             CupertinoIcons.search,
             size: 28,
+            color: Colors.black,
           ),
         ),
         actions: [
@@ -20,6 +21,7 @@ class HomeScreen extends StatelessWidget {
             icon: Icon(
               CupertinoIcons.envelope_open,
               size: 26,
+              color: Colors.black,
             ),
           ),
           IconButton(
@@ -27,6 +29,7 @@ class HomeScreen extends StatelessWidget {
             icon: Icon(
               CupertinoIcons.calendar,
               size: 28,
+              color: Colors.black,
             ),
           ),
           IconButton(
@@ -34,6 +37,7 @@ class HomeScreen extends StatelessWidget {
             icon: Icon(
               CupertinoIcons.bell,
               size: 28,
+              color: Colors.black,
             ),
           ),
         ],
