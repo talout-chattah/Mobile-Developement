@@ -1,3 +1,5 @@
+import 'package:club_house_clone/data.dart';
+import 'package:club_house_clone/widgets/user_profile_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -40,6 +42,16 @@ class HomeScreen extends StatelessWidget {
               color: Colors.black,
             ),
           ),
+          GestureDetector(
+            onTap: (){},
+            child: Padding(
+            padding: const EdgeInsets.all(10),
+            child: UserProfileImage(
+              imageURL: currentUser.imageURL,
+              size: 34,
+            ),
+          ),
+          ) 
         ],
       ),
     );
