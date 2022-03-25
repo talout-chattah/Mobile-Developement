@@ -1,4 +1,5 @@
 import 'package:club_house_clone/data.dart';
+import 'package:club_house_clone/widgets/room_card.dart';
 import 'package:club_house_clone/widgets/user_profile_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -43,15 +44,21 @@ class HomeScreen extends StatelessWidget {
             ),
           ),
           GestureDetector(
-            onTap: (){},
+            onTap: () {},
             child: Padding(
-            padding: const EdgeInsets.all(10),
-            child: UserProfileImage(
-              imageURL: currentUser.imageURL,
-              size: 34,
+              padding: const EdgeInsets.all(10),
+              child: UserProfileImage(
+                imageURL: currentUser.imageURL,
+                size: 34,
+              ),
             ),
-          ),
-          ) 
+          )
+        ],
+      ),
+      body: ListView(
+        padding: const EdgeInsets.fromLTRB(20.0, 20.0, 20.0, 100.0),
+        children: [
+          ...roomList.map((e) => RoomCard(room: e)),
         ],
       ),
     );
