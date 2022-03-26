@@ -55,10 +55,57 @@ class HomeScreen extends StatelessWidget {
           )
         ],
       ),
-      body: ListView(
-        padding: const EdgeInsets.fromLTRB(20.0, 20.0, 20.0, 100.0),
+      body: Stack(
+        alignment: Alignment.center,
         children: [
-          ...roomList.map((e) => RoomCard(room: e)),
+          ListView(
+            padding: const EdgeInsets.fromLTRB(20.0, 20.0, 20.0, 100.0),
+            children: [
+              ...roomList.map((e) => RoomCard(room: e)),
+            ],
+          ),
+          Positioned(
+            left: 0,
+            right: 0,
+            bottom: 0,
+            child: Container(
+            height: 100,
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topCenter,
+                end: Alignment.bottomCenter,
+                colors: [
+                  Theme.of(context).scaffoldBackgroundColor.withOpacity(0.1),
+                  Theme.of(context).scaffoldBackgroundColor
+                  ],
+                ),
+              ),
+            ),
+          ),
+          Positioned(
+            bottom: 50,
+            child: ElevatedButton.icon(
+              onPressed: (){},
+              icon: Icon(
+                CupertinoIcons.add,
+                size: 21,
+              ),
+              label: Text(
+                'Add room',
+                style:TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.w500,
+                ),
+              ),
+              style: ElevatedButton.styleFrom(
+                padding: EdgeInsets.all(12),
+                primary: Theme.of(context).accentColor,
+                shape: const RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(Radius.circular(20)),
+                ),
+              ),
+            ),
+          ),
         ],
       ),
     );
