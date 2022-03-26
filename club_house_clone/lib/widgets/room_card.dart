@@ -15,7 +15,7 @@ class RoomCard extends StatelessWidget {
       onTap: () => Navigator.of(context).push(
         MaterialPageRoute(
           fullscreenDialog: true,
-          builder: (_)=> RoomScreen(room: room),
+          builder: (_) => RoomScreen(room: room),
         ),
       ),
       child: Padding(

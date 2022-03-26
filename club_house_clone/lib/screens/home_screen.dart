@@ -69,14 +69,14 @@ class HomeScreen extends StatelessWidget {
             right: 0,
             bottom: 0,
             child: Container(
-            height: 100,
-            decoration: BoxDecoration(
-              gradient: LinearGradient(
-                begin: Alignment.topCenter,
-                end: Alignment.bottomCenter,
-                colors: [
-                  Theme.of(context).scaffoldBackgroundColor.withOpacity(0.1),
-                  Theme.of(context).scaffoldBackgroundColor
+              height: 100,
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  begin: Alignment.topCenter,
+                  end: Alignment.bottomCenter,
+                  colors: [
+                    Theme.of(context).scaffoldBackgroundColor.withOpacity(0.1),
+                    Theme.of(context).scaffoldBackgroundColor
                   ],
                 ),
               ),
@@ -85,16 +85,16 @@ class HomeScreen extends StatelessWidget {
           Positioned(
             bottom: 50,
             child: ElevatedButton.icon(
-              onPressed: (){},
+              onPressed: () {},
               icon: Icon(
                 CupertinoIcons.add,
                 size: 21,
               ),
               label: Text(
                 'Add room',
-                style:TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.w500,
+                style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.w500,
                 ),
               ),
               style: ElevatedButton.styleFrom(

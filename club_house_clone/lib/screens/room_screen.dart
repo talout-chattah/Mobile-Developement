@@ -10,8 +10,6 @@ class RoomScreen extends StatelessWidget {
 
   const RoomScreen({Key? key, required this.room}) : super(key: key);
 
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -19,7 +17,7 @@ class RoomScreen extends StatelessWidget {
         elevation: 0,
         leadingWidth: 130,
         leading: TextButton.icon(
-          onPressed: ()=> Navigator.of(context).pop(),
+          onPressed: () => Navigator.of(context).pop(),
           icon: const Icon(CupertinoIcons.chevron_down),
           label: const Text('Hallway'),
           style: TextButton.styleFrom(primary: Colors.black),
