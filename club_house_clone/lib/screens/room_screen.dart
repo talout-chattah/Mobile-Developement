@@ -5,6 +5,7 @@ import 'package:club_house_clone/widgets/room_user_profile.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import '../constants.dart';
 import '../data.dart';
 import '../widgets/user_profile_image.dart';
 
@@ -104,7 +105,65 @@ class RoomScreen extends StatelessWidget {
                     )
                     .toList(),
               ),
-            )
+            ),
+            SliverToBoxAdapter(
+              child: Text(
+                'Followed by the speakers',
+                style: Theme.of(context).textTheme.overline!.copyWith(
+                  fontSize: 14.0,
+                  fontWeight: FontWeight.w500,
+                  letterSpacing: 1.0,
+                  color: Colors.grey[500],
+                ),
+              ),
+            ),
+            SliverPadding(
+              padding: const EdgeInsets.all(14.0),
+              sliver: SliverGrid.count(
+                crossAxisCount: 4,
+                childAspectRatio: 0.7,
+                mainAxisSpacing: 15.0,
+                children: room.followedBySpeakers
+                    .map(
+                      (e) => RoomUserProfile(
+                    imageURL: e.imageURL,
+                    name: e.firstName,
+                    size: 66,
+                    isNew: Random().nextBool(),
+                  ),
+                )
+                    .toList(),
+              ),
+            ),
+            SliverToBoxAdapter(
+              child: Text(
+                'Others in the room',
+                style: Theme.of(context).textTheme.overline!.copyWith(
+                  fontSize: 14.0,
+                  fontWeight: FontWeight.w500,
+                  letterSpacing: 1.0,
+                  color: Colors.grey[500],
+                ),
+              ),
+            ),
+            SliverPadding(
+              padding: const EdgeInsets.all(14.0),
+              sliver: SliverGrid.count(
+                crossAxisCount: 4,
+                childAspectRatio: 0.7,
+                mainAxisSpacing: 15.0,
+                children: room.others
+                    .map(
+                      (e) => RoomUserProfile(
+                    imageURL: e.imageURL,
+                    name: e.firstName,
+                    size: 66,
+                    isNew: Random().nextBool(),
+                  ),
+                )
+                    .toList(),
+              ),
+            ),
           ],
         ),
       ),
