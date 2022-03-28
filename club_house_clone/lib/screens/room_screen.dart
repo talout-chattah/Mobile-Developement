@@ -110,11 +110,11 @@ class RoomScreen extends StatelessWidget {
               child: Text(
                 'Followed by the speakers',
                 style: Theme.of(context).textTheme.overline!.copyWith(
-                  fontSize: 14.0,
-                  fontWeight: FontWeight.w500,
-                  letterSpacing: 1.0,
-                  color: Colors.grey[500],
-                ),
+                      fontSize: 14.0,
+                      fontWeight: FontWeight.w500,
+                      letterSpacing: 1.0,
+                      color: Colors.grey[500],
+                    ),
               ),
             ),
             SliverPadding(
@@ -126,12 +126,12 @@ class RoomScreen extends StatelessWidget {
                 children: room.followedBySpeakers
                     .map(
                       (e) => RoomUserProfile(
-                    imageURL: e.imageURL,
-                    name: e.firstName,
-                    size: 66,
-                    isNew: Random().nextBool(),
-                  ),
-                )
+                        imageURL: e.imageURL,
+                        name: e.firstName,
+                        size: 66,
+                        isNew: Random().nextBool(),
+                      ),
+                    )
                     .toList(),
               ),
             ),
@@ -139,11 +139,11 @@ class RoomScreen extends StatelessWidget {
               child: Text(
                 'Others in the room',
                 style: Theme.of(context).textTheme.overline!.copyWith(
-                  fontSize: 14.0,
-                  fontWeight: FontWeight.w500,
-                  letterSpacing: 1.0,
-                  color: Colors.grey[500],
-                ),
+                      fontSize: 14.0,
+                      fontWeight: FontWeight.w500,
+                      letterSpacing: 1.0,
+                      color: Colors.grey[500],
+                    ),
               ),
             ),
             SliverPadding(
@@ -155,14 +155,86 @@ class RoomScreen extends StatelessWidget {
                 children: room.others
                     .map(
                       (e) => RoomUserProfile(
-                    imageURL: e.imageURL,
-                    name: e.firstName,
-                    size: 66,
-                    isNew: Random().nextBool(),
-                  ),
-                )
+                        imageURL: e.imageURL,
+                        name: e.firstName,
+                        size: 66,
+                        isNew: Random().nextBool(),
+                      ),
+                    )
                     .toList(),
               ),
+            ),
+            SliverPadding(
+              padding: EdgeInsets.only(
+                bottom: 50,
+              ),
+            ),
+          ],
+        ),
+      ),
+      bottomSheet: Container(
+        padding: EdgeInsets.symmetric(
+          horizontal: 20,
+          vertical: 12,
+        ),
+        height: 90,
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            TextButton(
+              onPressed: () {},
+              child: Text(
+                '✌ Leave quittely',
+                style: TextStyle(
+                  color: Colors.red,
+                  fontWeight: FontWeight.w500,
+                  fontSize: 16,
+                ),
+              ),
+              style: TextButton.styleFrom(
+                padding: EdgeInsets.all(12.0),
+                backgroundColor: Colors.grey[300],
+                shape: const RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(
+                    Radius.circular(20),
+                  ),
+                ),
+              ),
+            ),
+            Row(
+              children: [
+                GestureDetector(
+                  onTap: () {},
+                  child: Container(
+                    decoration: BoxDecoration(
+                      shape: BoxShape.circle,
+                      color: Colors.grey[300],
+                    ),
+                    padding: EdgeInsets.all(6.0),
+                    child: Icon(
+                      CupertinoIcons.add,
+                      size: 30,
+                    ),
+                  ),
+                ),
+                SizedBox(
+                  width: 12,
+                ),
+                GestureDetector(
+                  onTap: () {},
+                  child: Container(
+                    decoration: BoxDecoration(
+                      shape: BoxShape.circle,
+                      color: Colors.grey[300],
+                    ),
+                    padding: EdgeInsets.all(6.0),
+                    child: Icon(
+                      CupertinoIcons.hand_raised,
+                      size: 30,
+                    ),
+                  ),
+                ),
+              ],
             ),
           ],
         ),

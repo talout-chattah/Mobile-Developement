@@ -5,14 +5,14 @@ const User currentUser = User(
     firstName: "Talout",
     lastName: "Chattah",
     imageURL:
-        "https://instagram.fqfd1-2.fna.fbcdn.net/v/t51.2885-19/275889422_136806252191838_509112847804693897_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fqfd1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=GFdhjyDqgVMAX-pEChK&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9QUCFw6v8DPfnjmPijgtIMHYEUJDmcgzy1Q4vMmvXBTA&oe=62404A20&_nc_sid=7bff83");
+    "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80");
 
 const List<User> allUsers = [
   User(
       firstName: "Ahmed",
       lastName: "Ibrahim",
       imageURL:
-          "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80"),
+      "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80"),
   User(
       firstName: "Zaki",
       lastName: "Ahmed",
